@@ -1,4 +1,4 @@
-# Python - Desktop App Development (2013)
+# Python - Desktop App Development
 
 This is an **_Archive from the Early Days_**, exploring Desktop Application
 Development with Python and PyQt.
